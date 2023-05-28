@@ -151,8 +151,8 @@
 
 @media screen and (max-width: 768px) {
     #pio {
-        width: 8em
         height: 240px;
+        width: 8em   
     }
 
     .pio-container {
